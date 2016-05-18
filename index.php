@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        //saf test 1
         ?>
     </body>
 </html>
