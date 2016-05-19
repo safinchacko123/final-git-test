@@ -15,6 +15,7 @@ and open the template in the editor.
         //safin adding to master
         //safin master to master 2
         //safin master edited on server
+        //safin master edited on local 1
         ?>
     </body>
 </html>
