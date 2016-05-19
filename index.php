@@ -11,11 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
-        //safin adding to master
-        //safin master to master 2
-         //safin master edited on server 1
-        //safin master edited on local 1
+        //safin created new branch named A
         ?>
     </body>
 </html>
