@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        //safin created new branch named A
+        //safin created new branch named B
         ?>
     </body>
 </html>
