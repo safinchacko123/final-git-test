@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         //safin created new branch named Lynn
+        // I am Lynn I have updated the following
+        // Lynn edit 1
         ?>
     </body>
 </html>
