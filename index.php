@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your code here
         //safin adding to master
         //safin master to master 2
+        //safin master edited on server
         ?>
     </body>
 </html>
