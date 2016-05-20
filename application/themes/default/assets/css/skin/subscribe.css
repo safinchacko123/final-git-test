@@ -1,0 +1,71 @@
+/*newsletter form*/
+#subscribe-form {
+  position: relative;
+}
+#subscribe-form fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+#subscribe-form label {
+  position: relative;
+  /*!*/
+  display: inline-block;
+  min-height: 43px;
+}
+#subscribe-form input,
+#subscribe-form textarea {
+  outline: none;
+  float: left;
+  padding: 0 10px 0 0;
+  font: 12px/30px 'Ubuntu', sans-serif;
+  border: none;
+  border-bottom: 1px solid #484b4c;
+  width: 100%;
+  height: 30px;
+  background: none;
+  color: #9d9d9d;
+  display: inline-block;
+}
+.btns {display: inline-block;}
+.btns a {
+  margin: 0 0 0 16px;
+  height: 30px;
+  line-height: 30px;
+  font-size: 20px;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: 'Sanchez', serif;
+}
+.btns a:hover {
+  color: #f64c4c !important;
+  text-decoration: none !important;
+}
+#subscribe-form .error {
+  height: 0;
+  overflow: hidden;
+  font: 10px/20px Arial;
+  -webkit-transition: height 0.3s linear;
+  -moz-transition: height 0.3s linear;
+  -o-transition: height 0.3s linear;
+  transition: height 0.3s linear;
+  position: absolute;
+  right: 3px;
+  top: 30px;
+  color: #e74c3c;
+}
+#subscribe-form .success {
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  line-height: 50px;
+  background: #303334;
+  color: #e74c3c;
+  top: 0;
+  left: 0;
+  z-index: 9;
+}
+#subscribe-form label.invalid .error {
+  height: 19px;
+}

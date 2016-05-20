@@ -1,0 +1,16 @@
+@media(max-width: 1500px){
+.mT60.find-city-home {
+    left: 14% !important;
+}
+}
+@media(max-width:1100px) {
+	
+.mT60.find-city-home { position: relative !important; left:0 !important; top: 0 !important; margin: 110px auto 80px !important; }
+
+}
+.mT60.find-city-home {
+    left: 23%;
+    position: absolute;
+    top: 60px;
+	z-index: 999;
+}
