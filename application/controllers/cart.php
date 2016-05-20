@@ -1,5 +1,6 @@
 <?php
 
+
 error_reporting(E_ERROR);
 
 class Cart extends Front_Controller {
