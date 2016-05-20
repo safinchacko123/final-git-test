@@ -1,6 +1,7 @@
 <?php
 
-/* Single page checkout controller */
+/* Single page checkout controller  */
+
 
 class Checkout extends Front_Controller {
 
